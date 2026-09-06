@@ -1,6 +1,6 @@
 {
- "count": 300,
- "generated_at": 1788736007,
+ "count": 400,
+ "generated_at": 1788736169,
  "items": [
   {
    "i": 0,
@@ -3001,6 +3001,1006 @@
    "subject": "insects",
    "date": "1836",
    "image": "img/299.png"
+  },
+  {
+   "i": 300,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20391518306).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20391518306)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/300.png"
+  },
+  {
+   "i": 301,
+   "file": "File:Britishentomologyvolume4Plate222.jpg",
+   "title": "Britishentomologyvolume4Plate222",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/301.png"
+  },
+  {
+   "i": 302,
+   "file": "File:Britishentomologyvolume8Plate641.jpg",
+   "title": "Britishentomologyvolume8Plate641",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/302.png"
+  },
+  {
+   "i": 303,
+   "file": "File:Britishentomologyvolume6Plate503.jpg",
+   "title": "Britishentomologyvolume6Plate503",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "between 1823 and 1840<div style=\"display: none;\">date QS:P,+",
+   "image": "img/303.png"
+  },
+  {
+   "i": 304,
+   "file": "File:British entomology (9934094665).jpg",
+   "title": "British entomology (9934094665)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1824",
+   "image": "img/304.png"
+  },
+  {
+   "i": 305,
+   "file": "File:British entomology (Plate, \"133\") (8044280858).jpg",
+   "title": "British entomology (Plate, \"133\") (8044280858)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823-1840 [i.e. 1840].",
+   "image": "img/305.png"
+  },
+  {
+   "i": 306,
+   "file": "File:Britishentomologyvolume5Plate290.jpg",
+   "title": "Britishentomologyvolume5Plate290",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/306.png"
+  },
+  {
+   "i": 307,
+   "file": "File:Britishentomologyvolume8Plate501.jpg",
+   "title": "Britishentomologyvolume8Plate501",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/307.png"
+  },
+  {
+   "i": 308,
+   "file": "File:British entomology (Plate 67) (6021889849).jpg",
+   "title": "British entomology (Plate 67) (6021889849)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "between 1823 and 1840<div style=\"display: none;\">date QS:P,+",
+   "image": "img/308.png"
+  },
+  {
+   "i": 309,
+   "file": "File:Britishentomologyvolume1Plate14.jpg",
+   "title": "Britishentomologyvolume1Plate14",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1820s<div style=\"display: none;\">date QS:P,+1820-00-00T00:00",
+   "image": "img/309.png"
+  },
+  {
+   "i": 310,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20391633926).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20391633926)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/310.png"
+  },
+  {
+   "i": 311,
+   "file": "File:Britishentomologyvolume6Plate471.jpg",
+   "title": "Britishentomologyvolume6Plate471",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "before 1840<div style=\"display: none;\">date QS:P,+1840-00-00",
+   "image": "img/311.png"
+  },
+  {
+   "i": 312,
+   "file": "File:British entomology (Plate 90) (6021899339).jpg",
+   "title": "British entomology (Plate 90) (6021899339)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "between 1823 and 1840<div style=\"display: none;\">date QS:P,+",
+   "image": "img/312.png"
+  },
+  {
+   "i": 313,
+   "file": "File:British Entomology Volume 7 (John Curtis) Plate 453.jpg",
+   "title": "British Entomology Volume 7 (John Curtis) Plate 453",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/313.png"
+  },
+  {
+   "i": 314,
+   "file": "File:British entomology (Plate 34) (6021876789).jpg",
+   "title": "British entomology (Plate 34) (6021876789)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "between 1823 and 1840<div style=\"display: none;\">date QS:P,+",
+   "image": "img/314.png"
+  },
+  {
+   "i": 315,
+   "file": "File:Britishentomologyvolume8Plate629.jpg",
+   "title": "Britishentomologyvolume8Plate629",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/315.png"
+  },
+  {
+   "i": 316,
+   "file": "File:Britishentomologyvolume1Plate20DETAIL.jpg",
+   "title": "Britishentomologyvolume1Plate20DETAIL",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1820s<div style=\"display: none;\">date QS:P,+1820-00-00T00:00",
+   "image": "img/316.png"
+  },
+  {
+   "i": 317,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (14597572377).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (14597572377)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/317.png"
+  },
+  {
+   "i": 318,
+   "file": "File:Britishentomologyvolume8Plate444.jpg",
+   "title": "Britishentomologyvolume8Plate444",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/318.png"
+  },
+  {
+   "i": 319,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (14783793132).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (14783793132)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/319.png"
+  },
+  {
+   "i": 320,
+   "file": "File:Britishentomologyvolume8Plate94.jpg",
+   "title": "Britishentomologyvolume8Plate94",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/320.png"
+  },
+  {
+   "i": 321,
+   "file": "File:British entomology (Plate 2) (6021864429).jpg",
+   "title": "British entomology (Plate 2) (6021864429)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "between 1823 and 1840<div style=\"display: none;\">date QS:P,+",
+   "image": "img/321.png"
+  },
+  {
+   "i": 322,
+   "file": "File:Britishentomologyvolume8Plate533.jpg",
+   "title": "Britishentomologyvolume8Plate533",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/322.png"
+  },
+  {
+   "i": 323,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20229779488).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20229779488)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/323.png"
+  },
+  {
+   "i": 324,
+   "file": "File:Britishentomologyvolume1Plate42.jpg",
+   "title": "Britishentomologyvolume1Plate42",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1820s<div style=\"display: none;\">date QS:P,+1820-00-00T00:00",
+   "image": "img/324.png"
+  },
+  {
+   "i": 325,
+   "file": "File:Britishentomologyvolume4Plate488.jpg",
+   "title": "Britishentomologyvolume4Plate488",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/325.png"
+  },
+  {
+   "i": 326,
+   "file": "File:Britishentomologyvolume8Plate285.jpg",
+   "title": "Britishentomologyvolume8Plate285",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/326.png"
+  },
+  {
+   "i": 327,
+   "file": "File:Britishentomologyvolume5Plate3.jpg",
+   "title": "Britishentomologyvolume5Plate3",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/327.png"
+  },
+  {
+   "i": 328,
+   "file": "File:British entomology (Plate 96) (6021901239).jpg",
+   "title": "British entomology (Plate 96) (6021901239)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "between 1823 and 1840<div style=\"display: none;\">date QS:P,+",
+   "image": "img/328.png"
+  },
+  {
+   "i": 329,
+   "file": "File:Britishentomologyvolume4Plate125.jpg",
+   "title": "Britishentomologyvolume4Plate125",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/329.png"
+  },
+  {
+   "i": 330,
+   "file": "File:Britishentomologyvolume8Plate146.jpg",
+   "title": "Britishentomologyvolume8Plate146",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/330.png"
+  },
+  {
+   "i": 331,
+   "file": "File:Britishentomologyvolume5Plate45.jpg",
+   "title": "Britishentomologyvolume5Plate45",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/331.png"
+  },
+  {
+   "i": 332,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (14781003621).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (14781003621)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/332.png"
+  },
+  {
+   "i": 333,
+   "file": "File:Britishentomologyvolume5Plate205b.jpg",
+   "title": "Britishentomologyvolume5Plate205b",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/333.png"
+  },
+  {
+   "i": 334,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20229598308).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20229598308)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/334.png"
+  },
+  {
+   "i": 335,
+   "file": "File:Britishentomologyvolume3Plate472.jpg",
+   "title": "Britishentomologyvolume3Plate472",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/335.png"
+  },
+  {
+   "i": 336,
+   "file": "File:British entomology (Plate, \"692\") (8044241436).jpg",
+   "title": "British entomology (Plate, \"692\") (8044241436)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823-1840 [i.e. 1840].",
+   "image": "img/336.png"
+  },
+  {
+   "i": 337,
+   "file": "File:Britishentomologyvolume8Plate110.jpg",
+   "title": "Britishentomologyvolume8Plate110",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/337.png"
+  },
+  {
+   "i": 338,
+   "file": "File:Britishentomologyvolume1Plate28.jpg",
+   "title": "Britishentomologyvolume1Plate28",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1820s<div style=\"display: none;\">date QS:P,+1820-00-00T00:00",
+   "image": "img/338.png"
+  },
+  {
+   "i": 339,
+   "file": "File:British entomology (Plate, \"22\") (8044260383).jpg",
+   "title": "British entomology (Plate, \"22\") (8044260383)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823-1840 [i.e. 1840].",
+   "image": "img/339.png"
+  },
+  {
+   "i": 340,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (14761138466).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (14761138466)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/340.png"
+  },
+  {
+   "i": 341,
+   "file": "File:British entomology (Plate, \"740\") (8044269495).jpg",
+   "title": "British entomology (Plate, \"740\") (8044269495)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823-1840 [i.e. 1840].",
+   "image": "img/341.png"
+  },
+  {
+   "i": 342,
+   "file": "File:Britishentomologyvolume3Plate456.jpg",
+   "title": "Britishentomologyvolume3Plate456",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/342.png"
+  },
+  {
+   "i": 343,
+   "file": "File:Britishentomologyvolume3Plate588.jpg",
+   "title": "Britishentomologyvolume3Plate588",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/343.png"
+  },
+  {
+   "i": 344,
+   "file": "File:Britishentomologyvolume1Plate1.jpg",
+   "title": "Britishentomologyvolume1Plate1",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/344.png"
+  },
+  {
+   "i": 345,
+   "file": "File:Orussus coronatus.jpg",
+   "title": "Orussus coronatus",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "October 1833",
+   "image": "img/345.png"
+  },
+  {
+   "i": 346,
+   "file": "File:Britishentomologyvolume4Plate752.jpg",
+   "title": "Britishentomologyvolume4Plate752",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/346.png"
+  },
+  {
+   "i": 347,
+   "file": "File:British entomology (9934032246).jpg",
+   "title": "British entomology (9934032246)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1824",
+   "image": "img/347.png"
+  },
+  {
+   "i": 348,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20417709685).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20417709685)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/348.png"
+  },
+  {
+   "i": 349,
+   "file": "File:Britishentomologyvolume5Plate36.jpg",
+   "title": "Britishentomologyvolume5Plate36",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/349.png"
+  },
+  {
+   "i": 350,
+   "file": "File:Britishentomologyvolume8Plate161.jpg",
+   "title": "Britishentomologyvolume8Plate161",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/350.png"
+  },
+  {
+   "i": 351,
+   "file": "File:British entomology (Plate 12) (6022425040).jpg",
+   "title": "British entomology (Plate 12) (6022425040)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "between 1823 and 1840<div style=\"display: none;\">date QS:P,+",
+   "image": "img/351.png"
+  },
+  {
+   "i": 352,
+   "file": "File:Britishentomologyvolume8Plate541.jpg",
+   "title": "Britishentomologyvolume8Plate541",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/352.png"
+  },
+  {
+   "i": 353,
+   "file": "File:Britishentomologyvolume5Plate242.jpg",
+   "title": "Britishentomologyvolume5Plate242",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/353.png"
+  },
+  {
+   "i": 354,
+   "file": "File:Britishentomologyvolume2Plate116.jpg",
+   "title": "Britishentomologyvolume2Plate116",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/354.png"
+  },
+  {
+   "i": 355,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20229642650).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20229642650)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/355.png"
+  },
+  {
+   "i": 356,
+   "file": "File:Britishentomologyvolume2Plate646 retusche 2.jpg",
+   "title": "Britishentomologyvolume2Plate646 retusche 2",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840",
+   "image": "img/356.png"
+  },
+  {
+   "i": 357,
+   "file": "File:British entomology (Plate, \"309\") (8044268281).jpg",
+   "title": "British entomology (Plate, \"309\") (8044268281)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823-1840 [i.e. 1840].",
+   "image": "img/357.png"
+  },
+  {
+   "i": 358,
+   "file": "File:British entomology (Plate, \"214\") (8044246935).jpg",
+   "title": "British entomology (Plate, \"214\") (8044246935)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823-1840 [i.e. 1840].",
+   "image": "img/358.png"
+  },
+  {
+   "i": 359,
+   "file": "File:Britishentomologyvolume5Plate631.jpg",
+   "title": "Britishentomologyvolume5Plate631",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/359.png"
+  },
+  {
+   "i": 360,
+   "file": "File:Agriotypusarmatus.jpg",
+   "title": "Agriotypusarmatus",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "",
+   "image": "img/360.png"
+  },
+  {
+   "i": 361,
+   "file": "File:Britishentomologyvolume2Plate51.jpg",
+   "title": "Britishentomologyvolume2Plate51",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/361.png"
+  },
+  {
+   "i": 362,
+   "file": "File:Britishentomologyvolume5Plate169.jpg",
+   "title": "Britishentomologyvolume5Plate169",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/362.png"
+  },
+  {
+   "i": 363,
+   "file": "File:Britishentomologyvolume5Plate328.jpg",
+   "title": "Britishentomologyvolume5Plate328",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/363.png"
+  },
+  {
+   "i": 364,
+   "file": "File:Britishentomologyvolume5Plate60.jpg",
+   "title": "Britishentomologyvolume5Plate60",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/364.png"
+  },
+  {
+   "i": 365,
+   "file": "File:Britishentomologyvolume6Plate603.jpg",
+   "title": "Britishentomologyvolume6Plate603",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "before 1840<div style=\"display: none;\">date QS:P,+1840-00-00",
+   "image": "img/365.png"
+  },
+  {
+   "i": 366,
+   "file": "File:Britishentomologyvolume6Plate416.jpg",
+   "title": "Britishentomologyvolume6Plate416",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "before 1840<div style=\"display: none;\">date QS:P,+1840-00-00",
+   "image": "img/366.png"
+  },
+  {
+   "i": 367,
+   "file": "File:Britishentomologyvolume4Plate760.jpg",
+   "title": "Britishentomologyvolume4Plate760",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/367.png"
+  },
+  {
+   "i": 368,
+   "file": "File:Britishentomologyvolume5Plate356.jpg",
+   "title": "Britishentomologyvolume5Plate356",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/368.png"
+  },
+  {
+   "i": 369,
+   "file": "File:British entomology (9934021796).jpg",
+   "title": "British entomology (9934021796)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1824",
+   "image": "img/369.png"
+  },
+  {
+   "i": 370,
+   "file": "File:Britishentomologyvolume5Plate651.jpg",
+   "title": "Britishentomologyvolume5Plate651",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/370.png"
+  },
+  {
+   "i": 371,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20229816080).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20229816080)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/371.png"
+  },
+  {
+   "i": 372,
+   "file": "File:British entomology (Plate 6) (6022422768).jpg",
+   "title": "British entomology (Plate 6) (6022422768)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "between 1823 and 1840<div style=\"display: none;\">date QS:P,+",
+   "image": "img/372.png"
+  },
+  {
+   "i": 373,
+   "file": "File:British Entomology Volume 7 (John Curtis) Plate 369.jpg",
+   "title": "British Entomology Volume 7 (John Curtis) Plate 369",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/373.png"
+  },
+  {
+   "i": 374,
+   "file": "File:Britishentomologyvolume6Plate615.jpg",
+   "title": "Britishentomologyvolume6Plate615",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "before 1840<div style=\"display: none;\">date QS:P,+1840-00-00",
+   "image": "img/374.png"
+  },
+  {
+   "i": 375,
+   "file": "File:Britishentomologyvolume3Plate457.jpg",
+   "title": "Britishentomologyvolume3Plate457",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/375.png"
+  },
+  {
+   "i": 376,
+   "file": "File:Britishentomologyvolume5Plate578.jpg",
+   "title": "Britishentomologyvolume5Plate578",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/376.png"
+  },
+  {
+   "i": 377,
+   "file": "File:Britishentomologyvolume8Plate142.jpg",
+   "title": "Britishentomologyvolume8Plate142",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/377.png"
+  },
+  {
+   "i": 378,
+   "file": "File:Britishentomologyvolume5Plate185.jpg",
+   "title": "Britishentomologyvolume5Plate185",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/378.png"
+  },
+  {
+   "i": 379,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20391490246).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20391490246)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/379.png"
+  },
+  {
+   "i": 380,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20229749670).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20229749670)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/380.png"
+  },
+  {
+   "i": 381,
+   "file": "File:Britishentomologyvolume6Plate189.jpg",
+   "title": "Britishentomologyvolume6Plate189",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "before 1840<div style=\"display: none;\">date QS:P,+1840-00-00",
+   "image": "img/381.png"
+  },
+  {
+   "i": 382,
+   "file": "File:Britishentomologyvolume6Plate751.jpg",
+   "title": "Britishentomologyvolume6Plate751",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "before 1840<div style=\"display: none;\">date QS:P,+1840-00-00",
+   "image": "img/382.png"
+  },
+  {
+   "i": 383,
+   "file": "File:British entomology (Plate 85) (6022453658).jpg",
+   "title": "British entomology (Plate 85) (6022453658)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "between 1823 and 1840<div style=\"display: none;\">date QS:P,+",
+   "image": "img/383.png"
+  },
+  {
+   "i": 384,
+   "file": "File:British entomology (Plate, \"93\") (8044225569).jpg",
+   "title": "British entomology (Plate, \"93\") (8044225569)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823-1840 [i.e. 1840].",
+   "image": "img/384.png"
+  },
+  {
+   "i": 385,
+   "file": "File:British entomology (Plate 61) (6022444402).jpg",
+   "title": "British entomology (Plate 61) (6022444402)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "between 1823 and 1840<div style=\"display: none;\">date QS:P,+",
+   "image": "img/385.png"
+  },
+  {
+   "i": 386,
+   "file": "File:British entomology (Plate 68) (6022446740).jpg",
+   "title": "British entomology (Plate 68) (6022446740)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "between 1823 and 1840<div style=\"display: none;\">date QS:P,+",
+   "image": "img/386.png"
+  },
+  {
+   "i": 387,
+   "file": "File:Britishentomologyvolume3Plate389.jpg",
+   "title": "Britishentomologyvolume3Plate389",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/387.png"
+  },
+  {
+   "i": 388,
+   "file": "File:Britishentomologyvolume3Plate617.jpg",
+   "title": "Britishentomologyvolume3Plate617",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/388.png"
+  },
+  {
+   "i": 389,
+   "file": "File:Bembecia scopigera.jpg",
+   "title": "Bembecia scopigera",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/389.png"
+  },
+  {
+   "i": 390,
+   "file": "File:Britishentomologyvolume2Plate630.jpg",
+   "title": "Britishentomologyvolume2Plate630",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840",
+   "image": "img/390.png"
+  },
+  {
+   "i": 391,
+   "file": "File:Britishentomologyvolume3Plate460.jpg",
+   "title": "Britishentomologyvolume3Plate460",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "October 1833",
+   "image": "img/391.png"
+  },
+  {
+   "i": 392,
+   "file": "File:Britishentomologyvolume5Plate308.jpg",
+   "title": "Britishentomologyvolume5Plate308",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840",
+   "image": "img/392.png"
+  },
+  {
+   "i": 393,
+   "file": "File:Britishentomologyvolume6Plate428.jpg",
+   "title": "Britishentomologyvolume6Plate428",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "before 1840<div style=\"display: none;\">date QS:P,+1840-00-00",
+   "image": "img/393.png"
+  },
+  {
+   "i": 394,
+   "file": "File:Britishentomologyvolume6Plate284.jpg",
+   "title": "Britishentomologyvolume6Plate284",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "before 1840<div style=\"display: none;\">date QS:P,+1840-00-00",
+   "image": "img/394.png"
+  },
+  {
+   "i": 395,
+   "file": "File:British entomology (Plate 114) (6021909031).jpg",
+   "title": "British entomology (Plate 114) (6021909031)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "between 1823 and 1840<div style=\"display: none;\">date QS:P,+",
+   "image": "img/395.png"
+  },
+  {
+   "i": 396,
+   "file": "File:British Entomology Volume 7 (John Curtis) Plate 297.jpg",
+   "title": "British Entomology Volume 7 (John Curtis) Plate 297",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1836",
+   "image": "img/396.png"
+  },
+  {
+   "i": 397,
+   "file": "File:Leguminosae5-British Entomology.jpg",
+   "title": "Leguminosae5-British Entomology",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "(1824–1835)",
+   "image": "img/397.png"
+  },
+  {
+   "i": 398,
+   "file": "File:Britishentomologyvolume5Plate595.jpg",
+   "title": "Britishentomologyvolume5Plate595",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/398.png"
+  },
+  {
+   "i": 399,
+   "file": "File:Britishentomologyvolume2Plate135.jpg",
+   "title": "Britishentomologyvolume2Plate135",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840",
+   "image": "img/399.png"
   }
  ]
 }
