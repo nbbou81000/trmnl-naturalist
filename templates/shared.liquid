@@ -1,0 +1,5 @@
+{% if count and count > 0 %}
+  {% assign max = count | minus: 1 %}
+  {% assign idx = "" | random_number: max | plus: 0 %}
+  {% assign plate_src = "https://nbbou81000.github.io/trmnl-naturalist/img/" | append: idx | append: ".png" %}
+{% endif %}

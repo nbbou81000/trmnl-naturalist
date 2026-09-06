@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Natural History Plates — plate index</title>
+<style>
+  :root {
+    --ink: #000;
+    --paper: #fff;
+    --rule: #d8d8d8;
+    --quiet: #6b6b6b;
+    --wash: #f2f2f2;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font: 16px/1.5 "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  }
+  .wrap { max-width: 1400px; margin: 0 auto; padding: 0 1.5rem; }
+
+  header { padding: 2.5rem 0 1.25rem; border-bottom: 2px solid var(--ink); }
+  h1 { margin: 0; font-size: clamp(1.6rem, 4vw, 2.4rem); font-weight: 600; letter-spacing: -0.01em; }
+  .lede { margin: 0.4rem 0 0; color: var(--quiet); max-width: 62ch; }
+
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1px; background: var(--rule); border: 1px solid var(--rule); margin: 1.5rem 0; }
+  .stat { background: var(--paper); padding: 0.9rem 1rem; }
+  .stat b { display: block; font-size: 1.7rem; font-weight: 600; font-variant-numeric: tabular-nums; line-height: 1.1; }
+  .stat span { color: var(--quiet); font-size: 0.85rem; }
+
+  .decades { margin: 0 0 1.5rem; }
+  .decades h2 { font-size: 0.95rem; font-weight: 600; margin: 0 0 0.6rem; }
+  .bars { display: flex; align-items: flex-end; gap: 3px; height: 90px; border-bottom: 1px solid var(--ink); }
+  .bar { flex: 1; background: var(--wash); border: 1px solid var(--rule); border-bottom: none; cursor: pointer; min-height: 2px; padding: 0; }
+  .bar[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); }
+  .bar-labels { display: flex; gap: 3px; margin-top: 0.35rem; }
+  .bar-labels span { flex: 1; text-align: center; font-size: 0.72rem; color: var(--quiet); }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 0.7rem; align-items: center; padding: 1rem 0; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
+  input[type=search], select {
+    font: inherit; padding: 0.45rem 0.6rem; border: 1px solid var(--ink);
+    border-radius: 0; background: var(--paper); color: var(--ink);
+  }
+  input[type=search] { flex: 1 1 16rem; }
+  :focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+  .tally { color: var(--quiet); font-variant-numeric: tabular-nums; margin-left: auto; }
+
+  main { padding: 1.5rem 0 0; }
+  .plates { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 1px; background: var(--rule); border: 1px solid var(--rule); }
+  figure { margin: 0; background: var(--paper); padding: 0.9rem; }
+  figure img { width: 100%; aspect-ratio: 4 / 3; object-fit: contain; display: block; }
+  figcaption { margin-top: 0.6rem; padding-top: 0.5rem; border-top: 1px solid var(--rule); font-size: 0.82rem; line-height: 1.35; }
+  figcaption b { font-weight: 600; display: block; }
+  figcaption span { color: var(--quiet); }
+  a.plate { color: inherit; text-decoration: none; display: block; }
+
+  .more, .empty { margin: 2rem auto; text-align: center; color: var(--quiet); }
+  button { font: inherit; padding: 0.55rem 1.3rem; border: 1px solid var(--ink); border-radius: 0; background: var(--paper); color: var(--ink); cursor: pointer; }
+  .more button:hover, #reset:hover { background: var(--ink); color: var(--paper); }
+
+  footer { padding: 2rem 0 3rem; border-top: 1px solid var(--rule); color: var(--quiet); font-size: 0.9rem; margin-top: 2rem; }
+  footer a { color: inherit; }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <h1>Natural History Plates</h1>
+    <p class="lede">Every plate generated for the TRMNL plugin, drawn from the great
+    illustrated natural histories — insects, shells, birds, plants and marine life,
+    engraved between the 17th and 19th centuries.</p>
+  </header>
+
+  <section class="stats" id="stats"></section>
+
+  <section class="decades" id="decades" hidden>
+    <h2>Plates by decade — click a bar to filter</h2>
+    <div class="bars" id="bars"></div>
+    <div class="bar-labels" id="barLabels"></div>
+  </section>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search a species, an illustrator, a work" aria-label="Search" />
+    <select id="cat" aria-label="Category"><option value="">All categories</option></select>
+    <select id="maker" aria-label="Work"><option value="">All works</option></select>
+    <select id="sort" aria-label="Sort order">
+      <option value="new">Newest plates first</option>
+      <option value="old">Oldest plates first</option>
+      <option value="year-desc">Patent year, recent first</option>
+      <option value="year-asc">Patent year, oldest first</option>
+      <option value="title">Title A–Z</option>
+      <option value="maker">Company A–Z</option>
+    </select>
+    <button id="reset" type="button">Clear</button>
+    <p class="tally" id="tally">Loading…</p>
+  </div>
+
+  <main>
+    <div class="plates" id="plates"></div>
+    <p class="more" id="more" hidden><button id="load" type="button">Show more plates</button></p>
+    <p class="empty" id="empty" hidden>Nothing matches. Try clearing a filter.</p>
+  </main>
+
+  <footer>
+    Plates are public domain, sourced from curated Wikimedia Commons collections.
+    Built from
+    <a href="https://github.com/nbbou81000/trmnl-naturalist">github.com/nbbou81000/trmnl-naturalist</a>.
+  </footer>
+</div>
+
+<script>
+const PAGE = 60;
+const $ = id => document.getElementById(id);
+let all = [], shown = [], cursor = 0, decade = null;
+
+const yearOf = it => { const m = /(1[5-9]\d\d)/.exec(it.date || ''); return m ? +m[1] : null; };
+const hay = it => [it.title, it.author, it.work, it.subject].join(' ').toLowerCase();
+const stat = (n, label) => `<div class="stat"><b>${n}</b><span>${label}</span></div>`;
+
+function fill(id, values, head) {
+  $(id).innerHTML = `<option value="">${head}</option>` +
+    values.map(v => `<option>${String(v).replace(/</g, '&lt;')}</option>`).join('');
+}
+
+function buildStats() {
+  const years = all.map(yearOf).filter(Boolean);
+  const cats = new Set(all.map(i => i.subject).filter(Boolean));
+  const makerCount = {};
+  all.forEach(i => { if (i.work) makerCount[i.work] = (makerCount[i.work] || 0) + 1; });
+  const montages = 0;
+
+  $('stats').innerHTML =
+    stat(all.length.toLocaleString(), 'plates') +
+    stat(cats.size, 'categories') +
+    stat(Object.keys(makerCount).length.toLocaleString(), 'works') +
+    stat(years.length ? `${Math.min(...years)}–${Math.max(...years)}` : '—', 'plate years') +
+    stat(new Set(all.map(i => i.author).filter(Boolean)).size, 'illustrators');
+
+  const buckets = {};
+  years.forEach(y => { const d = Math.floor(y / 10) * 10; buckets[d] = (buckets[d] || 0) + 1; });
+  const keys = Object.keys(buckets).map(Number).sort((a, b) => a - b);
+  if (keys.length) {
+    const peak = Math.max(...keys.map(k => buckets[k]));
+    $('bars').innerHTML = keys.map(k =>
+      `<button class="bar" data-decade="${k}" aria-pressed="false"
+        style="height:${Math.max(2, buckets[k] / peak * 100)}%"
+        title="${buckets[k]} plates from the ${k}s"></button>`).join('');
+    $('barLabels').innerHTML = keys.map(k => `<span>${String(k).slice(2)}</span>`).join('');
+    $('decades').hidden = false;
+    $('bars').addEventListener('click', e => {
+      const b = e.target.closest('.bar');
+      if (!b) return;
+      const d = Number(b.dataset.decade);
+      decade = decade === d ? null : d;
+      [...$('bars').children].forEach(x =>
+        x.setAttribute('aria-pressed', Number(x.dataset.decade) === decade));
+      apply();
+    });
+  }
+
+  fill('cat', [...cats].sort(), 'All categories');
+  fill('maker', Object.keys(makerCount).sort((a, b) => makerCount[b] - makerCount[a]).slice(0, 80), 'All works');
+}
+
+function apply() {
+  const term = $('q').value.trim().toLowerCase();
+  const cat = $('cat').value, maker = $('maker').value, sort = $('sort').value;
+
+  shown = all.filter(it =>
+    (!term || hay(it).includes(term)) &&
+    (!cat || it.subject === cat) &&
+    (!maker || it.work === maker) &&
+    (!decade || (yearOf(it) >= decade && yearOf(it) < decade + 10)));
+
+  shown.sort({
+    new: (a, b) => b.i - a.i,
+    old: (a, b) => a.i - b.i,
+    'year-desc': (a, b) => (yearOf(b) || 0) - (yearOf(a) || 0),
+    'year-asc': (a, b) => (yearOf(a) || 9999) - (yearOf(b) || 9999),
+    title: (a, b) => (a.title || '').localeCompare(b.title || ''),
+    maker: (a, b) => (a.work || '').localeCompare(b.work || ''),
+  }[sort]);
+
+  $('tally').textContent = shown.length !== all.length
+    ? `${shown.length.toLocaleString()} of ${all.length.toLocaleString()} plates`
+    : `${all.length.toLocaleString()} plates`;
+  render(true);
+}
+
+function render(reset) {
+  if (reset) { $('plates').innerHTML = ''; cursor = 0; }
+  const frag = document.createDocumentFragment();
+  for (const it of shown.slice(cursor, cursor + PAGE)) {
+    const a = document.createElement('a');
+    a.className = 'plate';
+    a.href = it.image;
+    const fig = document.createElement('figure');
+    const img = document.createElement('img');
+    img.src = it.image; img.loading = 'lazy'; img.decoding = 'async';
+    img.alt = it.title || 'Patent drawing';
+    const cap = document.createElement('figcaption');
+    const b = document.createElement('b');
+    b.textContent = it.title || 'Untitled';
+    const s = document.createElement('span');
+    s.textContent = [it.author, it.work, it.date].filter(Boolean).join(' · ');
+    cap.append(b, s); fig.append(img, cap); a.append(fig); frag.append(a);
+  }
+  $('plates').append(frag);
+  cursor = Math.min(cursor + PAGE, shown.length);
+  $('more').hidden = cursor >= shown.length;
+  $('empty').hidden = shown.length > 0;
+}
+
+$('load').addEventListener('click', () => render(false));
+['cat', 'maker', 'sort'].forEach(id => $(id).addEventListener('change', apply));
+$('reset').addEventListener('click', () => {
+  $('q').value = ''; $('cat').value = ''; $('maker').value = ''; $('sort').value = 'new';
+  decade = null;
+  [...$('bars').children].forEach(x => x.setAttribute('aria-pressed', 'false'));
+  apply();
+});
+let t;
+$('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(apply, 150); });
+
+fetch('manifest.json')
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => { all = data.items || []; buildStats(); apply(); })
+  .catch(() => {
+    $('tally').textContent = 'Could not load manifest.json — the render workflow may not have run yet.';
+  });
+</script>
+</body>
+</html>

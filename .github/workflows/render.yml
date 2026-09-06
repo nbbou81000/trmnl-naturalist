@@ -1,0 +1,60 @@
+name: Render plates
+
+on:
+  schedule:
+    - cron: "40 3,15 * * *"
+  workflow_dispatch:
+    inputs:
+      cap:
+        description: "Nombre de planches visé"
+        default: "12000"
+      only:
+        description: "Ouvrages à rendre, séparés par des virgules (vide = tous)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-plates
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install pillow
+
+      - name: Configurer git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Rendre les planches manquantes
+        env:
+          PER_RUN: "500"
+          CHECKPOINT: "100"
+          TIME_BUDGET: "8400"
+          ONLY: ${{ github.event.inputs.only }}
+        run: python3 scripts/build.py corpus.json ${{ github.event.inputs.cap || 12000 }}
+
+      - name: Commit final
+        if: always()
+        run: |
+          git add docs/
+          if git diff --staged --quiet; then
+            echo "Rien de neuf."
+            exit 0
+          fi
+          git commit -m "images: $(python3 -c "import json;print(json.load(open('docs/count.json'))['count'])") planches"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase --autostash
+          done
+          exit 1

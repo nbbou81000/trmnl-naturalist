@@ -1,0 +1,167 @@
+[
+ {
+  "category": "Iconographia Zoologica",
+  "label": "Iconographia Zoologica",
+  "author": "",
+  "subject": "animals",
+  "profile": {
+   "bg": "light",
+   "boost": 1.2,
+   "crop": true
+  }
+ },
+ {
+  "category": "British Entomology (John Curtis)",
+  "label": "British Entomology",
+  "author": "John Curtis",
+  "subject": "insects",
+  "profile": {
+   "bg": "light",
+   "boost": 1.15,
+   "crop": true
+  }
+ },
+ {
+  "category": "Die Schmetterlinge in Abbildungen nach der Natur",
+  "label": "Die Schmetterlinge",
+  "author": "Jacob Hübner",
+  "subject": "butterflies",
+  "profile": {
+   "bg": "light",
+   "boost": 1.2,
+   "crop": true
+  }
+ },
+ {
+  "category": "Maria Sibylla Merian",
+  "label": "Merian",
+  "author": "Maria Sibylla Merian",
+  "subject": "insects",
+  "profile": {
+   "bg": "light",
+   "boost": 1.2,
+   "crop": true
+  }
+ },
+ {
+  "category": "Illustrations of Indian Zoology",
+  "label": "Indian Zoology",
+  "author": "John Edward Gray",
+  "subject": "animals",
+  "profile": {
+   "bg": "light",
+   "boost": 1.2,
+   "crop": true
+  }
+ },
+ {
+  "category": "Neues systematisches Conchylien-Cabinet",
+  "label": "Conchylien-Cabinet",
+  "author": "Martini & Chemnitz",
+  "subject": "shells",
+  "profile": {
+   "bg": "light",
+   "boost": 1.25,
+   "crop": true
+  }
+ },
+ {
+  "category": "Kunstformen der Natur",
+  "label": "Kunstformen der Natur",
+  "author": "Ernst Haeckel",
+  "subject": "marine life",
+  "profile": {
+   "bg": "dark",
+   "boost": 1.0,
+   "crop": false
+  }
+ },
+ {
+  "category": "John Gould",
+  "label": "John Gould",
+  "author": "John Gould",
+  "subject": "birds",
+  "profile": {
+   "bg": "light",
+   "boost": 1.2,
+   "crop": true
+  }
+ },
+ {
+  "category": "Histoire naturelle des oiseaux",
+  "label": "Histoire naturelle des oiseaux",
+  "author": "Buffon",
+  "subject": "birds",
+  "profile": {
+   "bg": "light",
+   "boost": 1.2,
+   "crop": true
+  }
+ },
+ {
+  "category": "Fauna Japonica",
+  "label": "Fauna Japonica",
+  "author": "Siebold",
+  "subject": "animals",
+  "profile": {
+   "bg": "light",
+   "boost": 1.6,
+   "crop": true
+  }
+ },
+ {
+  "category": "Köhlers Medizinal-Pflanzen",
+  "label": "Köhlers Medizinal-Pflanzen",
+  "author": "Franz Eugen Köhler",
+  "subject": "plants",
+  "profile": {
+   "bg": "light",
+   "boost": 1.2,
+   "crop": true
+  }
+ },
+ {
+  "category": "Curtis's Botanical Magazine",
+  "label": "Curtis's Botanical Magazine",
+  "author": "William Curtis",
+  "subject": "plants",
+  "profile": {
+   "bg": "light",
+   "boost": 1.2,
+   "crop": true
+  }
+ },
+ {
+  "category": "Les liliacées",
+  "label": "Les Liliacées",
+  "author": "Pierre-Joseph Redouté",
+  "subject": "plants",
+  "profile": {
+   "bg": "light",
+   "boost": 1.2,
+   "crop": true
+  }
+ },
+ {
+  "category": "Flora Batava - KB copy",
+  "label": "Flora Batava",
+  "author": "Jan Kops",
+  "subject": "plants",
+  "profile": {
+   "bg": "light",
+   "boost": 1.2,
+   "crop": true
+  }
+ },
+ {
+  "category": "Histoire naturelle, générale et particulière",
+  "label": "Histoire naturelle",
+  "author": "Buffon",
+  "subject": "animals",
+  "profile": {
+   "bg": "light",
+   "boost": 1.2,
+   "crop": true
+  }
+ }
+]

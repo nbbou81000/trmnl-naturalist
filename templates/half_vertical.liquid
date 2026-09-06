@@ -1,0 +1,9 @@
+{% if plate_src %}
+  <div class="layout layout--col gap--none">
+    <img class="image image--contain image-dither w--full h--full" src="{{ plate_src }}" alt="Natural history plate" />
+  </div>
+{% else %}
+  <div class="layout layout--col gap--none">
+    <span class="title">No plates available</span>
+  </div>
+{% endif %}

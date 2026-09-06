@@ -1,0 +1,52 @@
+name: Collect plates
+
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Ouvrages à collecter, séparés par des virgules (vide = tous)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-plates
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Configurer git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Collecter
+        env:
+          PER_RUN: "4000"
+          DELAY: "0.6"
+          ONLY: ${{ github.event.inputs.only }}
+        run: python3 scripts/collect.py
+
+      - name: Commit
+        if: always()
+        run: |
+          git add corpus.json state.json
+          if git diff --staged --quiet; then
+            echo "Rien de neuf."
+            exit 0
+          fi
+          git commit -m "corpus: $(python3 -c "import json;print(len(json.load(open('corpus.json'))))") planches"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase --autostash
+          done
+          exit 1
