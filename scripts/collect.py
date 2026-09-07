@@ -38,6 +38,11 @@ ONLY = [v.strip().lower() for v in os.environ.get("ONLY", "").split(",") if v.st
 SKIP = (
     "title page", "titlepage", "frontispiece", "cover", "binding", "spine",
     "portrait", "bookplate", "index", "contents", "colophon", "map",
+    # Les scans de l'université d'Amsterdam sont des photographies de tirages
+    # posés sur fond noir : cadre envahissant, gravure lessivée. Ils peuplent
+    # leur propre catégorie mais s'infiltrent aussi dans celles d'autres
+    # ouvrages, où les écarter par le nom de fichier est le seul recours.
+    "iconographia zoologica", "special collections", "uba01", "ubainv",
 )
 
 
