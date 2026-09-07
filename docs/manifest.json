@@ -1,6 +1,6 @@
 {
- "count": 1130,
- "generated_at": 1788770413,
+ "count": 1186,
+ "generated_at": 1788770733,
  "items": [
   {
    "i": 0,
@@ -11301,6 +11301,566 @@
    "subject": "animals",
    "date": "",
    "image": "img/1129.png"
+  },
+  {
+   "i": 1130,
+   "file": "File:Emberiza variabilis Fauna Japonica.jpg",
+   "title": "Emberiza variabilis Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1130.png"
+  },
+  {
+   "i": 1131,
+   "file": "File:Coccothraustes personata - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16000307.tif",
+   "title": "Coccothraustes personata - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16000307",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1131.png"
+  },
+  {
+   "i": 1132,
+   "file": "File:Emberiza elegans Fauna Japonica.jpg",
+   "title": "Emberiza elegans Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1132.png"
+  },
+  {
+   "i": 1133,
+   "file": "File:Priacanthus niphonius - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ13000007.tif",
+   "title": "Priacanthus niphonius - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ13000007",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1133.png"
+  },
+  {
+   "i": 1134,
+   "file": "File:Coccothraustes vulgaris japonicus Fauna Japonica.jpg",
+   "title": "Coccothraustes vulgaris japonicus Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1134.png"
+  },
+  {
+   "i": 1135,
+   "file": "File:Anas formosa female Fauna Japonica.jpg",
+   "title": "Anas formosa female Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1135.png"
+  },
+  {
+   "i": 1136,
+   "file": "File:Buteo vulgaris japonicus (fem jun) Fauna Japonica.jpg",
+   "title": "Buteo vulgaris japonicus (fem jun) Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1136.png"
+  },
+  {
+   "i": 1137,
+   "file": "File:Pica cyana - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ15700189.tif",
+   "title": "Pica cyana - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ15700189",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1137.png"
+  },
+  {
+   "i": 1138,
+   "file": "File:Ardea goisagi Fauna Japonica 2.jpg",
+   "title": "Ardea goisagi Fauna Japonica 2",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1138.png"
+  },
+  {
+   "i": 1139,
+   "file": "File:Hydrobata pallasii - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16300397.tif",
+   "title": "Hydrobata pallasii - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16300397",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1139.png"
+  },
+  {
+   "i": 1140,
+   "file": "File:Charadrius pluvialis orientalis Fauna Japonica.jpg",
+   "title": "Charadrius pluvialis orientalis Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1140.png"
+  },
+  {
+   "i": 1141,
+   "file": "File:Pteromys leucogenys fauna japonica.jpg",
+   "title": "Pteromys leucogenys fauna japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1141.png"
+  },
+  {
+   "i": 1142,
+   "file": "File:Emberiza personata Fauna Japonica.jpg",
+   "title": "Emberiza personata Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1142.png"
+  },
+  {
+   "i": 1143,
+   "file": "File:Cervus sika - met schedel - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ21500346.tif",
+   "title": "Cervus sika - met schedel - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ21500346",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1143.png"
+  },
+  {
+   "i": 1144,
+   "file": "File:Crus monachus Fauna Japonica.jpg",
+   "title": "Crus monachus Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1144.png"
+  },
+  {
+   "i": 1145,
+   "file": "File:Temenuchus pyrrhogenys - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ15800063.tif",
+   "title": "Temenuchus pyrrhogenys - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ15800063",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1145.png"
+  },
+  {
+   "i": 1146,
+   "file": "File:Astur gularis Fauna Japonica.jpg",
+   "title": "Astur gularis Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1146.png"
+  },
+  {
+   "i": 1147,
+   "file": "File:Caprimulgus jotaka (mas) Fauna Japonica.jpg",
+   "title": "Caprimulgus jotaka (mas) Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1147.png"
+  },
+  {
+   "i": 1148,
+   "file": "File:Corvus neglectus - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ15700265.tif",
+   "title": "Corvus neglectus - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ15700265",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1148.png"
+  },
+  {
+   "i": 1149,
+   "file": "File:Sturnus cineraceus - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ15800089.tif",
+   "title": "Sturnus cineraceus - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ15800089",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1149.png"
+  },
+  {
+   "i": 1150,
+   "file": "File:Macacus speciosus - details - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ20000105.tif",
+   "title": "Macacus speciosus - details - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ20000105",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1150.png"
+  },
+  {
+   "i": 1151,
+   "file": "File:Parophrys cornuta - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ14000223.tif",
+   "title": "Parophrys cornuta - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ14000223",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1151.png"
+  },
+  {
+   "i": 1152,
+   "file": "File:Anas formosa male Fauna Japonica.jpg",
+   "title": "Anas formosa male Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1152.png"
+  },
+  {
+   "i": 1153,
+   "file": "File:Meles anakuma - Fauna Japonica Volume 5 Mammalia, Tab. 6.pdf",
+   "title": "Meles anakuma - Fauna Japonica Volume 5 Mammalia, Tab. 6",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1842 and 1845<div style=\"display: none;\">date QS:P,+",
+   "image": "img/1153.png"
+  },
+  {
+   "i": 1154,
+   "file": "File:Carbo capillatus Fauna Japonica.jpg",
+   "title": "Carbo capillatus Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1154.png"
+  },
+  {
+   "i": 1155,
+   "file": "File:Coccothraustes personatus Fauna Japonica.jpg",
+   "title": "Coccothraustes personatus Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1155.png"
+  },
+  {
+   "i": 1156,
+   "file": "File:Pteromys momonga fauna japonica.jpg",
+   "title": "Pteromys momonga fauna japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1156.png"
+  },
+  {
+   "i": 1157,
+   "file": "File:Caprimulgus jotaka (fem) Fauna Japonica.jpg",
+   "title": "Caprimulgus jotaka (fem) Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1157.png"
+  },
+  {
+   "i": 1158,
+   "file": "File:Scolopax (Gallinago) solitaria Fauna Japonica.jpg",
+   "title": "Scolopax (Gallinago) solitaria Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1158.png"
+  },
+  {
+   "i": 1159,
+   "file": "File:Treron sieboldii - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ15600025.tif",
+   "title": "Treron sieboldii - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ15600025",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1159.png"
+  },
+  {
+   "i": 1160,
+   "file": "File:Citrinella rustica - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16100243.tif",
+   "title": "Citrinella rustica - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16100243",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1160.png"
+  },
+  {
+   "i": 1161,
+   "file": "File:Rhomboidichthys myriaster - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ14000195.tif",
+   "title": "Rhomboidichthys myriaster - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ14000195",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1161.png"
+  },
+  {
+   "i": 1162,
+   "file": "File:Calcedo bengalensis Fauna Japonica.jpg",
+   "title": "Calcedo bengalensis Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1162.png"
+  },
+  {
+   "i": 1163,
+   "file": "File:Emberiza sulphurea Fauna Japonica.jpg",
+   "title": "Emberiza sulphurea Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1163.png"
+  },
+  {
+   "i": 1164,
+   "file": "File:Carbo bicristatus Fauna Japonica.jpg",
+   "title": "Carbo bicristatus Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1164.png"
+  },
+  {
+   "i": 1165,
+   "file": "File:Haliëtos pelagicus Fauna Japonica.jpg",
+   "title": "Haliëtos pelagicus Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1165.png"
+  },
+  {
+   "i": 1166,
+   "file": "File:Corvus (Monedula) dauricus Fauna Japonica.jpg",
+   "title": "Corvus (Monedula) dauricus Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1166.png"
+  },
+  {
+   "i": 1167,
+   "file": "File:Niltava cyanomelana - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16500123.tif",
+   "title": "Niltava cyanomelana - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16500123",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1167.png"
+  },
+  {
+   "i": 1168,
+   "file": "File:Anthus pratensis japonicus Fauna Japonica.jpg",
+   "title": "Anthus pratensis japonicus Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1168.png"
+  },
+  {
+   "i": 1169,
+   "file": "File:Anthus arboreus Fauna Japonica.jpg",
+   "title": "Anthus arboreus Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1169.png"
+  },
+  {
+   "i": 1170,
+   "file": "File:Columba (Carpophaga) janthina Fauna Japonica.jpg",
+   "title": "Columba (Carpophaga) janthina Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1170.png"
+  },
+  {
+   "i": 1171,
+   "file": "File:Carbo capillatus (Jun.) Fauna Japonica.jpg",
+   "title": "Carbo capillatus (Jun.) Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1171.png"
+  },
+  {
+   "i": 1172,
+   "file": "File:Biophorus paradisiacus Fauna Japonica.jpg",
+   "title": "Biophorus paradisiacus Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1172.png"
+  },
+  {
+   "i": 1173,
+   "file": "File:Priacanthus niphonius - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ13000009.tif",
+   "title": "Priacanthus niphonius - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ13000009",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1173.png"
+  },
+  {
+   "i": 1174,
+   "file": "File:Emberiza cioides Fauna Japonica.jpg",
+   "title": "Emberiza cioides Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1174.png"
+  },
+  {
+   "i": 1175,
+   "file": "File:Accentor rubidus Fauna Japonica.jpg",
+   "title": "Accentor rubidus Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1175.png"
+  },
+  {
+   "i": 1176,
+   "file": "File:Corvus (Monedula) dauricus (ad) Fauna Japonica.jpg",
+   "title": "Corvus (Monedula) dauricus (ad) Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1176.png"
+  },
+  {
+   "i": 1177,
+   "file": "File:Anser cygnoides ferus Fauna Japonica.jpg",
+   "title": "Anser cygnoides ferus Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1177.png"
+  },
+  {
+   "i": 1178,
+   "file": "File:Fauna japonica, sive, Descriptio animalium, quae in itinere per Japoniam, jussu et auspiciis, superiorum, qui summum in India Batava imperium tenent, suscepto, annis 1823-1830 (IA faunajaponicasi3sieb).pdf",
+   "title": "Fauna japonica, sive, Descriptio animalium, quae in itinere per Japoniam, jussu et auspiciis, superiorum, qui summum in India Batava imperium tenent, suscepto, annis 1823-1830 (IA faunajaponicasi3sieb)",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1178.png"
+  },
+  {
+   "i": 1179,
+   "file": "File:Sphargis mercurialis - schedel en wervels - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZAA100223.tif",
+   "title": "Sphargis mercurialis - schedel en wervels - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZAA100223",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1179.png"
+  },
+  {
+   "i": 1180,
+   "file": "File:A history of British birds (white background).jpg",
+   "title": "A history of British birds (white background)",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1862?-1867?",
+   "image": "img/1180.png"
+  },
+  {
+   "i": 1181,
+   "file": "File:Pleuronectes variegatus - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ14000221.tif",
+   "title": "Pleuronectes variegatus - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ14000221",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1181.png"
+  },
+  {
+   "i": 1182,
+   "file": "File:Columba (Turtur) gelastis Fauna Japonica.jpg",
+   "title": "Columba (Turtur) gelastis Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1182.png"
+  },
+  {
+   "i": 1183,
+   "file": "File:Fauna Japonica.jpg",
+   "title": "Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1850",
+   "image": "img/1183.png"
+  },
+  {
+   "i": 1184,
+   "file": "File:Crus leucogeranos (jun.) Fauna Japonica.jpg",
+   "title": "Crus leucogeranos (jun.) Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1184.png"
+  },
+  {
+   "i": 1185,
+   "file": "File:Corvus macrorhynchus Fauna Japonica.jpg",
+   "title": "Corvus macrorhynchus Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1185.png"
   }
  ]
 }
