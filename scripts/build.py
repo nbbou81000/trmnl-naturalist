@@ -42,10 +42,32 @@ def final_check(art, prof):
     return 0.035 <= ink <= 0.72
 
 
+def save_plates(items):
+    """
+    Un petit JSON par planche, interrogé directement par l'URL de polling.
+
+    L'URL de polling accepte du Liquid : en y tirant l'index, l'URL change à
+    chaque appel, donc le payload aussi, et TRMNL régénère l'écran. Avec un
+    count.json figé, TRMNL considérait qu'il n'y avait rien de neuf et gardait
+    la même planche indéfiniment.
+    """
+    d = os.path.join(ROOT, "docs", "plate")
+    os.makedirs(d, exist_ok=True)
+    for it in items:
+        f = os.path.join(d, f"{it['i']}.json")
+        if os.path.exists(f):
+            continue
+        json.dump({"i": it["i"], "image": it["image"], "title": it.get("title", ""),
+                   "author": it.get("author", ""), "work": it.get("work", ""),
+                   "subject": it.get("subject", ""), "date": it.get("date", "")},
+                  open(f, "w"), ensure_ascii=False)
+
+
 def save_manifest(items):
     json.dump({"count": len(items), "generated_at": int(time.time()), "items": items},
               open(MANIFEST, "w"), indent=1, ensure_ascii=False)
     json.dump({"count": len(items)}, open(COUNT, "w"))
+    save_plates(items)
 
 
 def checkpoint(items):
@@ -80,10 +102,19 @@ def main(corpus_path, cap):
         done = {e["file"]: e for e in json.load(open(MANIFEST))["items"]}
 
     if ONLY:
-        corpus = [p for p in corpus if p["work"].lower() in ONLY]
+        # On accepte le libellé court comme le nom de catégorie Commons, comme
+        # collect.py : passer l'un et pas l'autre était une source d'erreur.
+        works_meta = json.load(open(os.path.join(ROOT, "works.json")))
+        labels = {w["label"].lower() for w in works_meta if w["label"].lower() in ONLY}
+        labels |= {w["label"].lower() for w in works_meta if w["category"].lower() in ONLY}
+        corpus = [p for p in corpus if p["work"].lower() in labels]
         if not corpus:
-            raise SystemExit("Aucune planche pour ONLY.")
-        print(f"Passe restreinte à : {', '.join(ONLY)} — {len(corpus)} candidates")
+            print(f'Aucune planche pour ONLY="{", ".join(ONLY)}".')
+            present = sorted({p["work"] for p in json.load(open(corpus_path))})
+            print("Ouvrages présents dans le corpus :", ", ".join(present) or "(corpus vide)")
+            print("Ouvrages déclarés :", ", ".join(w["label"] for w in works_meta))
+            raise SystemExit(1)
+        print(f"Passe restreinte à : {', '.join(sorted(labels))} — {len(corpus)} candidates")
 
     # Tourniquet par ouvrage : sans lui, Curtis's Botanical Magazine et ses
     # 2658 planches écraseraient les ouvrages plus petits dans la rotation.

@@ -8,7 +8,9 @@ quantification en 4 niveaux les écrase en aplats et fait disparaître les
 nervures. On applique donc autocontraste, léger renfort, puis tramage
 Floyd-Steinberg — exactement ce qu'il fallait bannir pour le trait pur.
 """
+import html
 import io
+import re
 import urllib.request
 
 from PIL import Image, ImageDraw, ImageEnhance, ImageFont, ImageOps, ImageStat
@@ -221,7 +223,55 @@ def prepare(im, prof=None):
     return inner_crop(im, prof) if prof["crop"] else im
 
 
+def clean_text(v):
+    """
+    Les métadonnées Commons arrivent en HTML : le champ date contient des
+    balises masquées ("1840s<div style=\"display:none\">date"), et les noms
+    de fichiers sont souvent collés en camel case
+    ("Britishentomologyvolume3Plate720").
+    """
+    v = html.unescape(re.sub(r"<[^>]*>", " ", v or ""))
+    v = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", v)          # camel case
+    v = re.sub(r"(?<=[a-z])(?=\d)", " ", v)              # mot suivi d'un nombre
+    v = re.sub(r"(?<=\d)(?=[A-Z])", " ", v)              # nombre suivi d'un mot capitalisé
+    v = re.sub(r"\s+", " ", v).strip(" .,-–")
+    return v[:1].upper() + v[1:] if v else v
+
+
+def clean_date(v):
+    """Ne garde que les années : le champ Commons mêle balises et libellés."""
+    years = re.findall(r"1[4-9]\d\d", re.sub(r"<[^>]*>", " ", v or ""))
+    if not years:
+        return ""
+    return years[0] if len(set(years)) == 1 else f"{min(years)}–{max(years)}"
+
+
+def tidy_title(title, work):
+    """
+    Les noms de fichiers Commons sont parfois entièrement collés
+    ("Britishentomologyvolume3Plate720") : impossible de les redécouper.
+    Quand c'est le cas, on reconstruit un titre lisible à partir de
+    l'ouvrage et du numéro de planche.
+    """
+    t = clean_text(title)
+    plate = re.search(r"\b(?:Plate|Pl|Tafel|Taf|Planche)\.?\s*(\d+)", t, re.I)
+    head = t.split()[0] if t.split() else ""
+    if len(head) > 16 and head.lower() == head.lower().replace(" ", ""):
+        if plate:
+            return f"{work} — Plate {plate.group(1)}"
+        return work
+    return t
+
+
 def compose(plate, art, out, target="x", prof=None):
+    work = clean_text(plate.get("work", ""))
+    plate = {
+        **plate,
+        "work": work,
+        "author": clean_text(plate.get("author", "")),
+        "date": clean_date(plate.get("date", "")),
+        "title": tidy_title(plate.get("title", ""), work),
+    }
     t = TARGETS[target]
     W, H, k = t["w"], t["h"], t["scale"]
     canvas = Image.new("1", (W, H), 1)
