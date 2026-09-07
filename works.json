@@ -1,16 +1,5 @@
 [
  {
-  "category": "Iconographia Zoologica",
-  "label": "Iconographia Zoologica",
-  "author": "",
-  "subject": "animals",
-  "profile": {
-   "bg": "light",
-   "boost": 1.2,
-   "crop": true
-  }
- },
- {
   "category": "British Entomology (John Curtis)",
   "label": "British Entomology",
   "author": "John Curtis",
@@ -105,7 +94,7 @@
   "subject": "animals",
   "profile": {
    "bg": "light",
-   "boost": 1.6,
+   "boost": 1.35,
    "crop": true
   }
  },
