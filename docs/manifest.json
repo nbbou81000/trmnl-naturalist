@@ -1,6 +1,6 @@
 {
- "count": 1020,
- "generated_at": 1788768126,
+ "count": 1030,
+ "generated_at": 1788769596,
  "items": [
   {
    "i": 0,
@@ -10201,6 +10201,106 @@
    "subject": "animals",
    "date": "",
    "image": "img/1019.png"
+  },
+  {
+   "i": 1020,
+   "file": "File:Ninox japonica from Fauna Japonica.jpg",
+   "title": "Ninox japonica from Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1845",
+   "image": "img/1020.png"
+  },
+  {
+   "i": 1021,
+   "file": "File:Tchitrea princeps - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16500057.tif",
+   "title": "Tchitrea princeps - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16500057",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1021.png"
+  },
+  {
+   "i": 1022,
+   "file": "File:Motacilla japonica - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16300091.tif",
+   "title": "Motacilla japonica - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16300091",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1022.png"
+  },
+  {
+   "i": 1023,
+   "file": "File:Ficedula coronata Fauna Japonica.jpg",
+   "title": "Ficedula coronata Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1023.png"
+  },
+  {
+   "i": 1024,
+   "file": "File:Ampelis phoenicoptera - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16500371.tif",
+   "title": "Ampelis phoenicoptera - 1833-1850 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBA01 IZ16500371",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "between 1833 and 1850<div style=\"display: none;\">date QS:P57",
+   "image": "img/1024.png"
+  },
+  {
+   "i": 1025,
+   "file": "File:Halcyon coromanda major Fauna Japonica.jpg",
+   "title": "Halcyon coromanda major Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1025.png"
+  },
+  {
+   "i": 1026,
+   "file": "File:Emberiza rustica Fauna Japonica.jpg",
+   "title": "Emberiza rustica Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1026.png"
+  },
+  {
+   "i": 1027,
+   "file": "File:Anas formosa male Fauna Japonica flipped.jpg",
+   "title": "Anas formosa male Fauna Japonica flipped",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1027.png"
+  },
+  {
+   "i": 1028,
+   "file": "File:Diomedea brachyura Fauna Japonica.jpg",
+   "title": "Diomedea brachyura Fauna Japonica",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1842",
+   "image": "img/1028.png"
+  },
+  {
+   "i": 1029,
+   "file": "File:Sus leucomystax (Fauna Japonica Mammalia 20).jpg",
+   "title": "Sus leucomystax (Fauna Japonica Mammalia 20)",
+   "work": "Fauna Japonica",
+   "author": "Siebold",
+   "subject": "animals",
+   "date": "1845",
+   "image": "img/1029.png"
   }
  ]
 }
