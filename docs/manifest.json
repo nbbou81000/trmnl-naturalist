@@ -1,6 +1,6 @@
 {
- "count": 1986,
- "generated_at": 1788856220,
+ "count": 2086,
+ "generated_at": 1788856436,
  "items": [
   {
    "i": 0,
@@ -19861,6 +19861,1006 @@
    "subject": "animals",
    "date": "",
    "image": "img/1985.png"
+  },
+  {
+   "i": 1986,
+   "file": "File:British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20417654025).jpg",
+   "title": "British entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland- containing coloured figures from nature of the most rare and beautiful species, (20417654025)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823",
+   "image": "img/1986.png"
+  },
+  {
+   "i": 1987,
+   "file": "File:Holothuria pentactes - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 106 01 0027.tif",
+   "title": "Holothuria pentactes - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 106 01 0027",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1987.png"
+  },
+  {
+   "i": 1988,
+   "file": "File:Furcocerca crumena - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 105 15 0004.tif",
+   "title": "Furcocerca crumena - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 105 15 0004",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1988.png"
+  },
+  {
+   "i": 1989,
+   "file": "File:Mallodon - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 032 04 0063.tif",
+   "title": "Mallodon - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 032 04 0063",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1989.png"
+  },
+  {
+   "i": 1990,
+   "file": "File:Gonoplax angulata - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 094 11 0002.tif",
+   "title": "Gonoplax angulata - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 094 11 0002",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1990.png"
+  },
+  {
+   "i": 1991,
+   "file": "File:Ambulyx - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 062 06 0020 (cropped).tif",
+   "title": "Ambulyx - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 062 06 0020 (cropped)",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1991.png"
+  },
+  {
+   "i": 1992,
+   "file": "File:Anomalon - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 046 04 0031.tif",
+   "title": "Anomalon - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 046 04 0031",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1992.png"
+  },
+  {
+   "i": 1993,
+   "file": "File:Gryllus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 004 03 0015.tif",
+   "title": "Gryllus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 004 03 0015",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1993.png"
+  },
+  {
+   "i": 1994,
+   "file": "File:Dorcasomus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 033 13 0002.tif",
+   "title": "Dorcasomus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 033 13 0002",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1994.png"
+  },
+  {
+   "i": 1995,
+   "file": "File:Hypopholis - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 020 07 0015.tif",
+   "title": "Hypopholis - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 020 07 0015",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1995.png"
+  },
+  {
+   "i": 1996,
+   "file": "File:Acylophorus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 014 14 0005.tif",
+   "title": "Acylophorus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 014 14 0005",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1996.png"
+  },
+  {
+   "i": 1997,
+   "file": "File:Jalyssus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 032 04 0037.tif",
+   "title": "Jalyssus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 032 04 0037",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1997.png"
+  },
+  {
+   "i": 1998,
+   "file": "File:Caulobius - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 020 04 0017.tif",
+   "title": "Caulobius - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 020 04 0017",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1998.png"
+  },
+  {
+   "i": 1999,
+   "file": "File:Asida - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 027 21 0002.tif",
+   "title": "Asida - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 027 21 0002",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/1999.png"
+  },
+  {
+   "i": 2000,
+   "file": "File:Eustales - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 029 01 02 0074.tif",
+   "title": "Eustales - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 029 01 02 0074",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2000.png"
+  },
+  {
+   "i": 2001,
+   "file": "File:Modiola - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 005 05 0018.tif",
+   "title": "Modiola - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 005 05 0018",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2001.png"
+  },
+  {
+   "i": 2002,
+   "file": "File:Eumicrus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 016 01 0019.tif",
+   "title": "Eumicrus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 016 01 0019",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2002.png"
+  },
+  {
+   "i": 2003,
+   "file": "File:Fulgora - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 042 02 0004.tif",
+   "title": "Fulgora - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 042 02 0004",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2003.png"
+  },
+  {
+   "i": 2004,
+   "file": "File:Leptopus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 002 02 0049.tif",
+   "title": "Leptopus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 002 02 0049",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2004.png"
+  },
+  {
+   "i": 2005,
+   "file": "File:Flustra tomentosa - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 093 10 0012.tif",
+   "title": "Flustra tomentosa - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 093 10 0012",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2005.png"
+  },
+  {
+   "i": 2006,
+   "file": "File:Hydrochus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 014 10 0016.tif",
+   "title": "Hydrochus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 014 10 0016",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2006.png"
+  },
+  {
+   "i": 2007,
+   "file": "File:Monas uva - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 113 25 0008.tif",
+   "title": "Monas uva - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 113 25 0008",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2007.png"
+  },
+  {
+   "i": 2008,
+   "file": "File:Nautilograpsus minutus - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 094 05 0007.tif",
+   "title": "Nautilograpsus minutus - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 094 05 0007",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2008.png"
+  },
+  {
+   "i": 2009,
+   "file": "File:Hirudo bioculata - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 103 08 0005.tif",
+   "title": "Hirudo bioculata - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 103 08 0005",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2009.png"
+  },
+  {
+   "i": 2010,
+   "file": "File:Lynceus sphaericus - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 099 07 0007.tif",
+   "title": "Lynceus sphaericus - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 099 07 0007",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2010.png"
+  },
+  {
+   "i": 2011,
+   "file": "File:Nais littoralis - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 103 06 0007.tif",
+   "title": "Nais littoralis - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 103 06 0007",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2011.png"
+  },
+  {
+   "i": 2012,
+   "file": "File:Alcyonella fungosa - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 093 18 0007.tif",
+   "title": "Alcyonella fungosa - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 093 18 0007",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2012.png"
+  },
+  {
+   "i": 2013,
+   "file": "File:Astacus fluviatilis - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 006 02 0026.tif",
+   "title": "Astacus fluviatilis - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 006 02 0026",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2013.png"
+  },
+  {
+   "i": 2014,
+   "file": "File:Crematogaster - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 002 03 0003.tif",
+   "title": "Crematogaster - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 002 03 0003",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2014.png"
+  },
+  {
+   "i": 2015,
+   "file": "File:Hypoderma - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 039 04 0002.tif",
+   "title": "Hypoderma - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 039 04 0002",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2015.png"
+  },
+  {
+   "i": 2016,
+   "file": "File:Helicina - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 005 03 0013.tif",
+   "title": "Helicina - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 005 03 0013",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2016.png"
+  },
+  {
+   "i": 2017,
+   "file": "File:Grapsus pictus - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 094 04 0004.tif",
+   "title": "Grapsus pictus - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 094 04 0004",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2017.png"
+  },
+  {
+   "i": 2018,
+   "file": "File:Lepisia - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 05 0040.tif",
+   "title": "Lepisia - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 05 0040",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2018.png"
+  },
+  {
+   "i": 2019,
+   "file": "File:Anisosticta - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 037 11 0006.tif",
+   "title": "Anisosticta - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 037 11 0006",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2019.png"
+  },
+  {
+   "i": 2020,
+   "file": "File:Litholepas spec. - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 101 01 0036.tif",
+   "title": "Litholepas spec. - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 101 01 0036",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2020.png"
+  },
+  {
+   "i": 2021,
+   "file": "File:Gnathium - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 09 0018.tif",
+   "title": "Gnathium - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 09 0018",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2021.png"
+  },
+  {
+   "i": 2022,
+   "file": "File:Enaria - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 020 07 0013.tif",
+   "title": "Enaria - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 020 07 0013",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2022.png"
+  },
+  {
+   "i": 2023,
+   "file": "File:Leucochroa accola - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 091 04 0016.tif",
+   "title": "Leucochroa accola - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 091 04 0016",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2023.png"
+  },
+  {
+   "i": 2024,
+   "file": "File:Amphidesmus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 033 25 0002.tif",
+   "title": "Amphidesmus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 033 25 0002",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2024.png"
+  },
+  {
+   "i": 2025,
+   "file": "File:Athlia - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 020 03 0038.tif",
+   "title": "Athlia - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 020 03 0038",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2025.png"
+  },
+  {
+   "i": 2026,
+   "file": "File:Alucita - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 058 18 0012.tif",
+   "title": "Alucita - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 058 18 0012",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2026.png"
+  },
+  {
+   "i": 2027,
+   "file": "File:Iridina - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 005 05 0037.tif",
+   "title": "Iridina - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 005 05 0037",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2027.png"
+  },
+  {
+   "i": 2028,
+   "file": "File:Leptaulax - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 018 14 0010.tif",
+   "title": "Leptaulax - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 018 14 0010",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2028.png"
+  },
+  {
+   "i": 2029,
+   "file": "File:Cimbex - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 002 03 0010.tif",
+   "title": "Cimbex - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 002 03 0010",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2029.png"
+  },
+  {
+   "i": 2030,
+   "file": "File:Britishentomologyvolume3Plate353.jpg",
+   "title": "Britishentomologyvolume3Plate353",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/2030.png"
+  },
+  {
+   "i": 2031,
+   "file": "File:Mesocordylus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 030 05 0038.tif",
+   "title": "Mesocordylus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 030 05 0038",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2031.png"
+  },
+  {
+   "i": 2032,
+   "file": "File:Britishentomologyvolume3Plate433.jpg",
+   "title": "Britishentomologyvolume3Plate433",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1840s<div style=\"display: none;\">date QS:P,+1840-00-00T00:00",
+   "image": "img/2032.png"
+  },
+  {
+   "i": 2033,
+   "file": "File:Liophloeus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 029 01 02 0017.tif",
+   "title": "Liophloeus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 029 01 02 0017",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2033.png"
+  },
+  {
+   "i": 2034,
+   "file": "File:Leucopholis - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 020 07 0021.tif",
+   "title": "Leucopholis - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 020 07 0021",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2034.png"
+  },
+  {
+   "i": 2035,
+   "file": "File:Eupsammia - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 007 03 0024.tif",
+   "title": "Eupsammia - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 007 03 0024",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2035.png"
+  },
+  {
+   "i": 2036,
+   "file": "File:Maja proteus - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 095 10 0006.tif",
+   "title": "Maja proteus - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 095 10 0006",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2036.png"
+  },
+  {
+   "i": 2037,
+   "file": "File:Balanus spec. - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 101 02 0006 (cropped).tif",
+   "title": "Balanus spec. - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 101 02 0006 (cropped)",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2037.png"
+  },
+  {
+   "i": 2038,
+   "file": "File:Callidium - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 10 0025.tif",
+   "title": "Callidium - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 10 0025",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2038.png"
+  },
+  {
+   "i": 2039,
+   "file": "File:Libythea - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 003 02 0003.tif",
+   "title": "Libythea - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 003 02 0003",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2039.png"
+  },
+  {
+   "i": 2040,
+   "file": "File:Melipona - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 045 10 0036.tif",
+   "title": "Melipona - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 045 10 0036",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2040.png"
+  },
+  {
+   "i": 2041,
+   "file": "File:Hylecoetus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 08 0012.tif",
+   "title": "Hylecoetus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 08 0012",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2041.png"
+  },
+  {
+   "i": 2042,
+   "file": "File:Loligopsis - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 005 09 0048.tif",
+   "title": "Loligopsis - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 005 09 0048",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2042.png"
+  },
+  {
+   "i": 2043,
+   "file": "File:Euphemus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 023 17 0002.tif",
+   "title": "Euphemus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 023 17 0002",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2043.png"
+  },
+  {
+   "i": 2044,
+   "file": "File:Axina - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 026 02 0004.tif",
+   "title": "Axina - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 026 02 0004",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2044.png"
+  },
+  {
+   "i": 2045,
+   "file": "File:Gnoma - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 10 0045.tif",
+   "title": "Gnoma - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 10 0045",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2045.png"
+  },
+  {
+   "i": 2046,
+   "file": "File:Buprestis - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 07 0002.tif",
+   "title": "Buprestis - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 07 0002",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2046.png"
+  },
+  {
+   "i": 2047,
+   "file": "File:Cidarites pistillaris - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 107 03 0015.tif",
+   "title": "Cidarites pistillaris - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 107 03 0015",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2047.png"
+  },
+  {
+   "i": 2048,
+   "file": "File:Leucoparyphus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 014 13 0004.tif",
+   "title": "Leucoparyphus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 014 13 0004",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2048.png"
+  },
+  {
+   "i": 2049,
+   "file": "File:Itea riparia - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 098 08 0016.tif",
+   "title": "Itea riparia - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 098 08 0016",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2049.png"
+  },
+  {
+   "i": 2050,
+   "file": "File:Fasciola scabra - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 105 12 0002.tif",
+   "title": "Fasciola scabra - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 105 12 0002",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2050.png"
+  },
+  {
+   "i": 2051,
+   "file": "File:Dactylozodes - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 023 07 0003.tif",
+   "title": "Dactylozodes - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 023 07 0003",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2051.png"
+  },
+  {
+   "i": 2052,
+   "file": "File:Hoplochelus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 020 07 0025.tif",
+   "title": "Hoplochelus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 020 07 0025",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2052.png"
+  },
+  {
+   "i": 2053,
+   "file": "File:Lamprima - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 04 0005.tif",
+   "title": "Lamprima - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 04 0005",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2053.png"
+  },
+  {
+   "i": 2054,
+   "file": "File:Crania spec. - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 093 02 0007.tif",
+   "title": "Crania spec. - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 093 02 0007",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2054.png"
+  },
+  {
+   "i": 2055,
+   "file": "File:Grapsus affinis - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 094 05 0004.tif",
+   "title": "Grapsus affinis - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 094 05 0004",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2055.png"
+  },
+  {
+   "i": 2056,
+   "file": "File:Alima laticaudata - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 006 02 0069.tif",
+   "title": "Alima laticaudata - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 006 02 0069",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2056.png"
+  },
+  {
+   "i": 2057,
+   "file": "File:Cyrtomerus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 033 07 0005.tif",
+   "title": "Cyrtomerus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 033 07 0005",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2057.png"
+  },
+  {
+   "i": 2058,
+   "file": "File:Acidota - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 015 05 0017.tif",
+   "title": "Acidota - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 015 05 0017",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2058.png"
+  },
+  {
+   "i": 2059,
+   "file": "File:Arenicola piscatorum - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 102 14 0002.tif",
+   "title": "Arenicola piscatorum - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 102 14 0002",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2059.png"
+  },
+  {
+   "i": 2060,
+   "file": "File:Asporina - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 010 20 0006.tif",
+   "title": "Asporina - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 010 20 0006",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2060.png"
+  },
+  {
+   "i": 2061,
+   "file": "File:Monobia - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 044 02 0018.tif",
+   "title": "Monobia - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 044 02 0018",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2061.png"
+  },
+  {
+   "i": 2062,
+   "file": "File:Lissonotus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 10 0034.tif",
+   "title": "Lissonotus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 10 0034",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2062.png"
+  },
+  {
+   "i": 2063,
+   "file": "File:Enchelis gemmata - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 113 13 0013.tif",
+   "title": "Enchelis gemmata - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 113 13 0013",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2063.png"
+  },
+  {
+   "i": 2064,
+   "file": "File:Achaeus cranch - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 006 01 0074.tif",
+   "title": "Achaeus cranch - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 006 01 0074",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2064.png"
+  },
+  {
+   "i": 2065,
+   "file": "File:Cypris bimuricata - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 099 09 0017.tif",
+   "title": "Cypris bimuricata - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 099 09 0017",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2065.png"
+  },
+  {
+   "i": 2066,
+   "file": "File:Callipogon - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 032 04 0039.tif",
+   "title": "Callipogon - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 032 04 0039",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2066.png"
+  },
+  {
+   "i": 2067,
+   "file": "File:Cephus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 047 05 0002.tif",
+   "title": "Cephus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 047 05 0002",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2067.png"
+  },
+  {
+   "i": 2068,
+   "file": "File:British entomology (Plate 31) (6022432408).jpg",
+   "title": "British entomology (Plate 31) (6022432408)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "between 1823 and 1840<div style=\"display: none;\">date QS:P,+",
+   "image": "img/2068.png"
+  },
+  {
+   "i": 2069,
+   "file": "File:Lambrus mediterraneus - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 095 04 0015.tif",
+   "title": "Lambrus mediterraneus - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 095 04 0015",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2069.png"
+  },
+  {
+   "i": 2070,
+   "file": "File:Armadillo trivialis - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 098 09 0015.tif",
+   "title": "Armadillo trivialis - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 098 09 0015",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2070.png"
+  },
+  {
+   "i": 2071,
+   "file": "File:British entomology (Plate, \"317\") (8044265697).jpg",
+   "title": "British entomology (Plate, \"317\") (8044265697)",
+   "work": "British Entomology",
+   "author": "John Curtis",
+   "subject": "insects",
+   "date": "1823-1840 [i.e. 1840].",
+   "image": "img/2071.png"
+  },
+  {
+   "i": 2072,
+   "file": "File:Cancer rumphii - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 094 14 0050.tif",
+   "title": "Cancer rumphii - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 094 14 0050",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2072.png"
+  },
+  {
+   "i": 2073,
+   "file": "File:Mithrax hispida - details - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 095 08 0002.tif",
+   "title": "Mithrax hispida - details - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 095 08 0002",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2073.png"
+  },
+  {
+   "i": 2074,
+   "file": "File:Anopheles - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 038 02 0010A.tif",
+   "title": "Anopheles - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 038 02 0010A",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2074.png"
+  },
+  {
+   "i": 2075,
+   "file": "File:Armadillidium zenckeri - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 098 09 0022.tif",
+   "title": "Armadillidium zenckeri - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 098 09 0022",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2075.png"
+  },
+  {
+   "i": 2076,
+   "file": "File:Cirolana - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 006 03 0050.tif",
+   "title": "Cirolana - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 006 03 0050",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2076.png"
+  },
+  {
+   "i": 2077,
+   "file": "File:Beharus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 041 05 0003.tif",
+   "title": "Beharus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 041 05 0003",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2077.png"
+  },
+  {
+   "i": 2078,
+   "file": "File:Calydna - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 049 20 0081.tif",
+   "title": "Calydna - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 049 20 0081",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2078.png"
+  },
+  {
+   "i": 2079,
+   "file": "File:Lethrus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 019 13 0044.tif",
+   "title": "Lethrus - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 019 13 0044",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2079.png"
+  },
+  {
+   "i": 2080,
+   "file": "File:Archon - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 021 07 0034.tif",
+   "title": "Archon - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 021 07 0034",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2080.png"
+  },
+  {
+   "i": 2081,
+   "file": "File:Erodius - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 08 0026.tif",
+   "title": "Erodius - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 001 08 0026",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2081.png"
+  },
+  {
+   "i": 2082,
+   "file": "File:Leucochroa pressa - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 091 04 0015.tif",
+   "title": "Leucochroa pressa - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 091 04 0015",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2082.png"
+  },
+  {
+   "i": 2083,
+   "file": "File:Hemesthocera - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 033 17 0008.tif",
+   "title": "Hemesthocera - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 033 17 0008",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2083.png"
+  },
+  {
+   "i": 2084,
+   "file": "File:Camerospongia fungiformis - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 007 04 0012.tif",
+   "title": "Camerospongia fungiformis - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 007 04 0012",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2084.png"
+  },
+  {
+   "i": 2085,
+   "file": "File:Dysaster - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 007 02 0023.tif",
+   "title": "Dysaster - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 007 02 0023",
+   "work": "Iconographia Zoologica",
+   "author": "",
+   "subject": "animals",
+   "date": "",
+   "image": "img/2085.png"
   }
  ]
 }
